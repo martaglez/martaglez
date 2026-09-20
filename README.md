@@ -8,7 +8,7 @@ Python · SQL · Java · R · Machine Learning · AI · Data Analysis · Postgre
 
 ### Projects
 
-A selection of projects in machine learning, computer vision and full-stack development.
+A selection of projects in machine learning, deep learning, optimization, computer vision and full-stack development.
 
 - [Spatio-Temporal Prediction of Influenza in Europe](https://github.com/martaglez/Spatio-Temporal-Prediction-of-Influenza-in-Europe)
   — Machine learning and epidemiological models for spatio-temporal influenza prediction across Europe.
@@ -21,3 +21,6 @@ A selection of projects in machine learning, computer vision and full-stack deve
 
 - [Autoencoder Video Restoration Pipeline](https://github.com/javixfdez/Autoencoder-Video-Restoration-Pipeline)
   — Team project. Video restoration pipeline using convolutional autoencoders and synthetic image degradation.
+
+- [Portfolio Optimization](https://github.com/martaglez/Portfolio-Optimization-with-Linear-Programming)
+  — Linear programming with PuLP, sensitivity analysis and a symbolic Simplex implementation in SymPy.
