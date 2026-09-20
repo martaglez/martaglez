@@ -10,7 +10,7 @@ Python · SQL · Java · R · Machine Learning · AI · Data Analysis · Postgre
 
 A selection of projects in machine learning, computer vision and full-stack development.
 
-- [Spatio-Temporal Prediction of Influenza in Europe](https://github.com/martaglez/project-influenza)
+- [Spatio-Temporal Prediction of Influenza in Europe](https://github.com/martaglez/Spatio-Temporal-Prediction-of-Influenza-in-Europe)
   — Machine learning and epidemiological models for spatio-temporal influenza prediction across Europe.
 
 - [Trastevere Project](https://github.com/martaglez/Trastevere-Project)
