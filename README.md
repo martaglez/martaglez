@@ -4,7 +4,7 @@ I'm a 4th-year **Data Science & Engineering student** based in Madrid, intereste
 
 ### Skills
 
-Python · SQL · Java · R · Machine Learning · AI · Data Analysis · PostgreSQL · Docker · Git
+Python · SQL · JavaScript · R · Machine Learning · Deep Learning · Computer Vision · Optimization · Data Analysis · PostgreSQL · SQLAlchemy · Docker · Git
 
 ### Projects
 
